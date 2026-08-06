@@ -1,0 +1,34 @@
+HOW TO REPLACE THE EMPTY DOCUMENT BOXES
+
+1. Put your exported or original files inside the website assets folder.
+   Recommended folders:
+   assets/lesson-plans/
+   assets/syllabi/
+   assets/assessments/
+   assets/curriculum/
+   assets/materials/
+   assets/evaluations/
+   assets/research/
+   assets/publications/
+   assets/presentations/
+   assets/professional-activities/
+
+2. Open content.js.
+
+3. Find the relevant collection:
+   - artifacts
+   - evaluations
+   - professionalDevelopment
+
+4. Replace an empty file value:
+   file: ""
+
+   with the correct local path, for example:
+   file: "assets/lesson-plans/academic-reading.pdf"
+
+5. Replace the placeholder title and description.
+
+6. Add or delete item objects as needed. Every item becomes a separate box
+   when the visitor opens that collection.
+
+NO NOTION LINKS REMAIN IN THIS VERSION.

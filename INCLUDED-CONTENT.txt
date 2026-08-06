@@ -1,0 +1,28 @@
+INCLUDED CONTENT
+
+Teaching experience; Academic A Grammar, Academic A Reading, and Foundation B Grammar & Writing syllabi; thematic unit; three detailed lesson plans; Every Falling Star assessment and student documentary; English for Legal Purposes and Mongolia program-design projects; authentic listening, scripted/unscripted, vocabulary, athlete, tense, and passive-voice materials; supervisor, peer, and handwritten student evaluations; response to feedback; research interests, works in progress, publication, citation information, LTRC research, AI-assisted assessment work, vocabulary platform, professional activities and awards; Troy L. Cox and Mark Tanner reference profiles; CV and supporting documents.
+
+Pending: edited short teaching videos.
+
+AUGUST 2026 VIEWER UPDATE
+- Desktop navigation labels enlarged.
+- Homepage portrait fills the frame with a closer face crop.
+- DOCX and PPTX portfolio artifacts now have generated PDF previews.
+- Document detail pages use interactive embedded viewers rather than long text reproductions.
+- Original editable files remain available for download.
+- Student Evaluations are organized by Fall 2024, Winter 2025, and Summer 2025.
+
+TEACHING VIDEO SECTION
+- Video 1: Scaffolding (description and course context added)
+- Video 2: Facilitating group work (description and course context added)
+- Video 3: Peer Collaboration (description and course context added)
+- Video placeholders automatically become players when the three named MP4 files are added to assets/videos/
+
+- Skimming and Scanning lesson plan (interactive preview + DOCX)
+
+LATEST UPDATE
+- Verified all three syllabi in Lesson Plans and Syllabi.
+- Added all three syllabi to Teaching Experience with embedded PDF previews.
+- Added Mongolia Study Abroad Program Business Plan under Conference Presentations and Research Projects as well as Curriculum and Program Design.
+- Changed Competencies to plain side-by-side “I can…” statements without category headings or boxes.
+- Replaced the broken Fall 2024 and Winter 2025 evaluation viewers with clear source-file notices because the referenced HEIC images are not present in the package.

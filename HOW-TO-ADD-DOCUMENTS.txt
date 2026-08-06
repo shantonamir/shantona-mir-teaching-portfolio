@@ -1,0 +1,19 @@
+HOW TO ADD YOUR PORTFOLIO DOCUMENTS
+
+1. Put the file in the assets folder. Example:
+   assets/reading-lesson-plan.pdf
+
+2. Open content.js and find the artifacts section.
+
+3. Replace a placeholder item with the real title and file path:
+
+   {
+     title: "Academic Reading Lesson Plan",
+     type: "Lesson Plan",
+     file: "assets/reading-lesson-plan.pdf",
+     description: "Optional short description."
+   }
+
+4. Every item inside a collection becomes its own separate box.
+
+The Lesson Plans and Syllabi collection is already prepared with five lesson-plan boxes and two syllabus boxes.

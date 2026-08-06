@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teaching-portfolio-eoi.pages.dev/sitemap.xml
